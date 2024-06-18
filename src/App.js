@@ -62,11 +62,6 @@ const Icon = styled.div`
   cursor: pointer;
 `;
 
-const IconImage = styled.img`
-  width: 48px;
-  height: 48px;
-`;
-
 const IconLabel = styled.div`
   font-size: 12px;
   margin-top: 5px;
