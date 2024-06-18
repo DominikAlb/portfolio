@@ -225,12 +225,12 @@ const App = () => {
         <p>You can add your products. AI should propose new cheaper and similar products and propose what should be taken during the next event</p>
         <p>DB: MongoDB + Firebase, Front-end: Flutter, backend: GO API, Cloud: Azure</p>
         <p>free to use for testers</p>
-        <a href="https://play.google.com/apps/test/com.haircare.app1/6"></a>
+        <a href="https://play.google.com/apps/test/com.haircare.app1/6">link</a>
         <p>DURING-TESTING</p>
-        <img src="./imag1.png" alt="Displayed Image"/>
-        <img src="./imag2.png" alt="Displayed Image"/>
-        <img src="./imag3.png" alt="Displayed Image"/>
-        <img src="/imag4.png" alt="Displayed Image"/>
+        <img src="./imag1.png" alt="Displayed Image1"/>
+        <img src="./imag2.png" alt="Displayed Image2"/>
+        <img src="./imag3.png" alt="Displayed Image3"/>
+        <img src="/imag4.png" alt="Displayed Image4"/>
         <h5>A robot for watering plants.</h5>
         <p>PENDING</p>
         <p>During my travels I want to water my plants. For this case I would like to create a robot using raspberry + python</p>
